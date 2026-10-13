@@ -1,2 +1,2 @@
-# AutoCAD
-Projects made using AutoCAD
+# Archimedes Trammel
+3D printed afterwards
